@@ -135,7 +135,7 @@ const Home: NextPage = () => {
           height={20}
           role="button"
           style={{ cursor: "pointer" }}
-          onClick={() => window.open(url, "_blank")}
+          onClick={() => window.open("https://twitter.com/cosimo_eth")}
         />
 
 
